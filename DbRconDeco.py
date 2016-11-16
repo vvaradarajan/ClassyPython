@@ -3,7 +3,7 @@ Created on Nov 15, 2016
 
 @author: vvaradarajan
 '''
-import pymysql
+import  pymysql
 import pymysql.cursors
 import json
 import sys
